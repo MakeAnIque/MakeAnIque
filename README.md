@@ -46,13 +46,11 @@ With a proven track record at leading organizations (including Mozilla Dev Netwo
 
 ---
 
-## 📂 Featured Projects
+## 📂 Open Source Contributions
 
-- [object-flattener](https://github.com/MakeAnIque/object-flattener): Advanced object flattening utilities for JavaScript/TypeScript.
-- [educify-backend](https://github.com/MyEducify/educify-backend): Scalable backend for EdTech platforms.
-- [limocrmturbo](https://github.com/imaiprogrammer/limocrmturbo): CRM turbocharged for efficiency.
-- [limo](https://github.com/MakeAnIque/limo): Project automation and management tools.
-- [Creative-Connect](https://github.com/chanakshag/Creative-Connect): Collaboration suite for creative professionals.
+- [`object-flattener`](https://github.com/MakeAnIque/object-flattener): Advanced object flattening utilities for JavaScript/TypeScript.
+- [MDN Web Docs Contributor](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Alt-Svc/contributors.txt): Proud contributor to Mozilla Developer Network documentation.
+- [Nrwl Nx Contributor](https://github.com/nrwl/nx/issues/29940): Provided feedback and suggestions for the Nx monorepo toolkit.
 
 ---
 
